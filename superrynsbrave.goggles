@@ -10,3 +10,4 @@ $discard,site=linuxhint.com
 $discard,site=makeuseof.com
 $discard,site=educba.com
 $discard,site=linuxconfig.org
+$downrank=2,site=geeksforgeeks.com
