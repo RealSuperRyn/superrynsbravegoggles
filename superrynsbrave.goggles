@@ -1,0 +1,8 @@
+! name: SuperRyn's Brave Goggles
+! description: Blocks bad/ai-generated tech answer websites
+! public: true
+! author: SuperRyn
+! homepage: https://github.com/RealSuperRyn/superrynsbravegoggles
+
+$discard,site=systranbox.com
+$discard,site=linuxhint.com
